@@ -11,7 +11,7 @@ namespace SoccerPlayer.UI.CRUDConsole
         static void Main(string[] args)
         {
             PlayerController playerController = new PlayerController();
-            playerController.CreatePlayer("Thomas", "Muller", "32", "Bayern Munich", " Forward");
+            playerController.CreatePlayer("Keylor", "Navas", "30", "Real Madrid", "GoalKeeper");
            
         }
     }
